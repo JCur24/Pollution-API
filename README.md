@@ -14,8 +14,18 @@ Download a Java IDE like Intellij. In a new terminal:
 ```bash
   git clone https://github.com/JCur24/Pollution-API.git
 ```
+
+Then run the application in your IDE.
+
 ## Tech Stack
 
 **API:** Spring
+
+
+## Lessons Learned
+
+-- I will be adding explanations to specific topics below in the future.
+
+
 
 
